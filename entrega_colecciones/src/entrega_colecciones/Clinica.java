@@ -75,11 +75,7 @@ public class Clinica {
 				break;
 			
 			case 4:
-					for(Integer codigo_:pacientes.keySet()) {
-					if(pac.getEdad()>65) {
-						System.out.println("Codigo: " +codigo_ + " Nombre: " + pac.getNombre() );
-					}
-					}
+					
 				break;
 				
 			
